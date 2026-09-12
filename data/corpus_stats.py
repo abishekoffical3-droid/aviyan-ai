@@ -1,7 +1,6 @@
 from pathlib import Path
 
 corpus = Path("data/processed/corpus.txt")
-
 text = corpus.read_text(encoding="utf-8")
 
 print("AVIYAN Corpus Statistics")
