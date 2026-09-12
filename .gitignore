@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pt
+*.pth
+*.ckpt
+checkpoints/
+data/cleaned/
+*.log
+26.2.1
